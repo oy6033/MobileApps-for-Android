@@ -18,6 +18,6 @@ In this project, we will attempt to develop a computing system that can understa
 
 We will attempt to solve all three aspects.
 
-<a href="www.youtube.com/embed&v=6SqlP-T91CA
+<a href="https://www.youtube.com/watch?v=6SqlP-T91CA
 " target="_blank"><img src="http://img.youtube.com/vi/6SqlP-T91CA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="787" height="443" border="10" /></a>
