@@ -1,5 +1,5 @@
 # MobileApps-for-Android
-These apps and projects were created by two contributors: 
+These apps and projects were created by four contributors: 
 1. CJ Sandoval
 2. Karan Kantharia
 3. Rushikesh Sargar
